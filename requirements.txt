@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+streamlit
+speechbrain
+librosa
+soundfile
+numpy
+httpx
+pytest
