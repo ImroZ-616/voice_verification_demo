@@ -1,0 +1,6 @@
+# Ignore local test audio data and log files
+data/
+__pycache__/
+*.wav
+*.npy
+*.jsonl
